@@ -695,6 +695,11 @@ AutoBar_Category_Info = { -- global
 		["texture"] = "Ability_PoisonSting";
 		["targetted"] = "WEAPON";
 	},
+	["POISON-CORROSIVE"] = {
+		["description"] = AUTOBAR_CLASS_POISON_CORROSIVE;
+		["texture"] = "inv_misc_slime_01";
+		["targetted"] = "WEAPON";
+	},
 	--------------
 	["EXPLOSIVES"] = {
 		["description"] = AUTOBAR_CLASS_EXPLOSIVES;
@@ -1596,6 +1601,10 @@ AutoBar_Category_Info["POISON-WOUND"].items = {
 		10920,	-- Wound Poison II
 		10921,	-- Wound Poison III
 		10922,	-- Wound Poison IV
+};
+AutoBar_Category_Info["POISON-CORROSIVE"].items = {
+		47408,	-- Corrosive Poison
+		47409,	-- Corrosive Poison II
 };
 AutoBar_Category_Info["EXPLOSIVES"].items = {
 		4358,	-- Rough Dynamite
