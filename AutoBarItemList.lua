@@ -109,6 +109,14 @@ AutoBar_Category_Info = { -- global
 			13452,	-- Elixir of the Mongoose		25		60 2% crit
 		},
 	},
+	
+	["GROUND_SCORPOK_ASSAY"] = {
+		["texture"] = "inv_misc_dust_02",
+		["description"] = AUTOBAR_CLASS_GROUND_SCORPOK_ASSAY,
+		["items"] = {
+			8412,	-- GroundScorpokAssay		25		
+		},
+	},
 	["POTION_STRENGTH"] = {
 		["texture"] = "INV_Potion_61",
 		["description"] = AUTOBAR_CLASS_STRENGTHPOTIONS,
@@ -700,6 +708,13 @@ AutoBar_Category_Info = { -- global
 		["texture"] = "inv_misc_slime_01";
 		["targetted"] = "WEAPON";
 	},
+	["POISON-DISSOLVENT"] = {
+		["description"] = AUTOBAR_CLASS_POISON_DISSOLVENT;
+		["texture"] = "Ability_Poisons";
+		["targetted"] = "WEAPON";
+	},
+	
+
 	--------------
 	["EXPLOSIVES"] = {
 		["description"] = AUTOBAR_CLASS_EXPLOSIVES;
@@ -1096,6 +1111,13 @@ AutoBar_Category_Info = { -- global
 			21986, -- Banner of Provocation
 			22047, -- Top Piece of Lord Valthalak's Amulet
 			51425, -- Teresa's Copper Coin
+		},
+	},
+	["POTION_QUICKNESS"] = {
+		["texture"] = "INV_Potion_08",
+		["description"] = AUTOBAR_CLASS_POTION_QUICKNESS,
+		["items"] = {
+			61181,	-- Potion of Quickness
 		},
 	},
 };
@@ -1606,6 +1628,11 @@ AutoBar_Category_Info["POISON-CORROSIVE"].items = {
 		47408,	-- Corrosive Poison
 		47409,	-- Corrosive Poison II
 };
+AutoBar_Category_Info["POISON-DISSOLVENT"].items = {
+		54009,	-- Dissolvent Poison
+		54010,	-- Dissolvent Poison II
+};
+
 AutoBar_Category_Info["EXPLOSIVES"].items = {
 		4358,	-- Rough Dynamite
 		4360,	-- Rough Copper Bomb

@@ -177,11 +177,16 @@ AUTOBAR_CLASS_FOOD_ARATHI = "Nahrung: Arathibecken";
 AUTOBAR_CLASS_FOOD_WARSONG = "Nahrung: Warsongschlucht";
 AUTOBAR_CLASS_SHARPENINGSTONES = "hergestellte Wetzsteine";
 AUTOBAR_CLASS_WEIGHTSTONE = "hergestellte Gewichtssteine";
+AUTOBAR_CLASS_GROUND_SCORPOK_ASSAY = "Gemahlener Scorpok-Assay";
+AUTOBAR_CLASS_POTION_QUICKNESS = "Trank der Schnelligkeit";
 AUTOBAR_CLASS_POISON_CRIPPLING = "Verkr\195\188ppelndes Gift";
 AUTOBAR_CLASS_POISON_DEADLY = "T\195\182dliches Gift";
-AUTOBAR_CLASS_POISON_INSTANT = "Sofortwirkendes Gift";
+AUTOBAR_CLASS_POISON_INSTANT_ALL = "Sofortwirkende Gifte";
 AUTOBAR_CLASS_POISON_MINDNUMBING = "Gedankenbenebelndes Gift";
 AUTOBAR_CLASS_POISON_WOUND = "Verwundendes Gift";
+AUTOBAR_CLASS_POISON_DISSOLVENT = "Aufl\195\182sendes Gift";
+AUTOBAR_CLASS_POISON_DISSOLVENT_II = "Aufl\195\182sendes Gift II";
+
 AUTOBAR_CLASS_EXPLOSIVES = "Ingenieurssprengstoffe";
 AUTOBAR_CLASS_MOUNTS_TROLL = "Reittier: Trolle - Raptoren";
 AUTOBAR_CLASS_MOUNTS_ORC = "Reittier: Orcs - W\195\182lfe";
