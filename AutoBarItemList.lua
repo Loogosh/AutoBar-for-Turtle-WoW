@@ -705,11 +705,7 @@ AutoBar_Category_Info = { -- global
 		["texture"] = "Ability_Poisons";
 		["targetted"] = "WEAPON";
 	},
-	["POISON-DISSOLVENT-II"] = {
-		["description"] = AUTOBAR_CLASS_POISON_DISSOLVENT_II;
-		["texture"] = "Ability_Poisons";
-		["targetted"] = "WEAPON";
-	},
+	
 
 	--------------
 	["EXPLOSIVES"] = {
@@ -1619,8 +1615,6 @@ AutoBar_Category_Info["POISON-CORROSIVE"].items = {
 };
 AutoBar_Category_Info["POISON-DISSOLVENT"].items = {
 		54009,	-- Dissolvent Poison
-};
-AutoBar_Category_Info["POISON-DISSOLVENT-II"].items = {
 		54010,	-- Dissolvent Poison II
 };
 
