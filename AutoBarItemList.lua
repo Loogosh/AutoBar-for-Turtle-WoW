@@ -700,6 +700,17 @@ AutoBar_Category_Info = { -- global
 		["texture"] = "inv_misc_slime_01";
 		["targetted"] = "WEAPON";
 	},
+	["POISON-DISSOLVENT"] = {
+		["description"] = AUTOBAR_CLASS_POISON_DISSOLVENT;
+		["texture"] = "Ability_Poisons";
+		["targetted"] = "WEAPON";
+	},
+	["POISON-DISSOLVENT-II"] = {
+		["description"] = AUTOBAR_CLASS_POISON_DISSOLVENT_II;
+		["texture"] = "Ability_Poisons";
+		["targetted"] = "WEAPON";
+	},
+
 	--------------
 	["EXPLOSIVES"] = {
 		["description"] = AUTOBAR_CLASS_EXPLOSIVES;
@@ -1606,6 +1617,13 @@ AutoBar_Category_Info["POISON-CORROSIVE"].items = {
 		47408,	-- Corrosive Poison
 		47409,	-- Corrosive Poison II
 };
+AutoBar_Category_Info["POISON-DISSOLVENT"].items = {
+		54009,	-- Dissolvent Poison
+};
+AutoBar_Category_Info["POISON-DISSOLVENT-II"].items = {
+		54010,	-- Dissolvent Poison II
+};
+
 AutoBar_Category_Info["EXPLOSIVES"].items = {
 		4358,	-- Rough Dynamite
 		4360,	-- Rough Copper Bomb
