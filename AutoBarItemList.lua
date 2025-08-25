@@ -109,6 +109,14 @@ AutoBar_Category_Info = { -- global
 			13452,	-- Elixir of the Mongoose		25		60 2% crit
 		},
 	},
+	
+	["GROUND_SCORPOK_ASSAY"] = {
+		["texture"] = "inv_misc_dust_02",
+		["description"] = AUTOBAR_CLASS_GROUND_SCORPOK_ASSAY,
+		["items"] = {
+			8412,	-- GroundScorpokAssay		25		
+		},
+	},
 	["POTION_STRENGTH"] = {
 		["texture"] = "INV_Potion_61",
 		["description"] = AUTOBAR_CLASS_STRENGTHPOTIONS,
@@ -1103,6 +1111,13 @@ AutoBar_Category_Info = { -- global
 			21986, -- Banner of Provocation
 			22047, -- Top Piece of Lord Valthalak's Amulet
 			51425, -- Teresa's Copper Coin
+		},
+	},
+	["POTION_QUICKNESS"] = {
+		["texture"] = "INV_Potion_08",
+		["description"] = AUTOBAR_CLASS_POTION_QUICKNESS,
+		["items"] = {
+			61181,	-- Potion of Quickness
 		},
 	},
 };
