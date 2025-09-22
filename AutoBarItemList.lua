@@ -1120,6 +1120,13 @@ AutoBar_Category_Info = { -- global
 			61181,	-- Potion of Quickness
 		},
 	},
+	["FLASK_OF_THE_TITANS"] = {
+		["texture"] = "inv_potion_62",
+		["description"] = AUTOBAR_CLASS_FLASK_OF_THE_TITANS,
+		["items"] = {
+			13510,	-- Flask of the Titans
+		},
+	},
 };
 
 AutoBar_Category_Info["BANDAGES"].items = {
