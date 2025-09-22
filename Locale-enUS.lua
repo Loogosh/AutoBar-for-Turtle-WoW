@@ -258,6 +258,7 @@ AUTOBAR_CLASS_SHARPENINGSTONES = "Blacksmith created Sharpening stones";
 AUTOBAR_CLASS_WEIGHTSTONE = "Blacksmith created Weight stones";
 AUTOBAR_CLASS_GROUND_SCORPOK_ASSAY = "Ground Scorpok Assay";
 AUTOBAR_CLASS_POTION_QUICKNESS = "Potion of Quickness";
+AUTOBAR_CLASS_FLASK_OF_THE_TITANS = "Flask of the Titans";
 AUTOBAR_CLASS_POISON_INSTANT_ALL = "Instant Poisons";
 AUTOBAR_CLASS_POISON_CRIPPLING = "Crippling Poison";
 AUTOBAR_CLASS_POISON_DEADLY = "Deadly Poison";
